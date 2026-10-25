@@ -1,0 +1,18 @@
+{
+  "name": "stallnet",
+  "version": "1.0.0",
+  "description": "Stall — CLI Node.js",
+  "main": "index.js",
+  "bin": {
+    "stall": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "private": true
+}
